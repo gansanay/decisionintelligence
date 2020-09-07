@@ -20,3 +20,4 @@ It is based on a free and open-source Jekyll template [available on GitHub here]
     max-width: 46em;
   }
 </style>
+cd ../dec 
