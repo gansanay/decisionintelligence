@@ -29,6 +29,7 @@ Some links to Cassie's online presence are in order:
 #### The Top 10
 
 * [[[CK] What is Decision Intelligence?]]
+* [What is Decision Intelligence?](/ck_di){: .internal-link}
 * [[[CK] Data Science’s Most Misunderstood Hero]]
 * [[[CK] Statistics for people in a hurry]]
 * [[[CK] What on earth is data science?]]
